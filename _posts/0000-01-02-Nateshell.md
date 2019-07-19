@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Nate Doggy Dogg
 Use the left arrow to go back!
